@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Pocisk
+  - SpeedSlowdown
+  - SpeedAntidote
+  - TNT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platformy
+  - Wspinaczki
+  - Gracze
+  - Tla
+  - Odbijania
+  - Wrogowie
+  - Przeszkody
+  - Pociski
+  - Interakcje
+  - Eksplozje
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tlo
+    uniqueID: 3505953781
+    locked: 0
+  - name: Woda
+    uniqueID: 994284543
+    locked: 0
+  - name: Platforma
+    uniqueID: 2714689759
+    locked: 0
+  - name: Wspinaczka
+    uniqueID: 979003473
+    locked: 0
+  - name: Hazards
+    uniqueID: 2714830791
+    locked: 0
+  - name: Interakcja
+    uniqueID: 3895531013
+    locked: 0
+  - name: Wrog
+    uniqueID: 2097756909
+    locked: 0
+  - name: Gracz
+    uniqueID: 3941938189
+    locked: 0
+  - name: Eksplozja
+    uniqueID: 4231532233
+    locked: 0

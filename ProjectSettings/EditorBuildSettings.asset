@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 5e6d6e062c5c8704aab6c5f15575ee9c
+  - enabled: 1
+    path: Assets/Levels/Level 1.unity
+    guid: 33bedc7de58a80548bb98cc452081a8e
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: dbe2dc087cfc1e245992c4e15b074a2f
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: a2130793e59172d45bca871fdea09169
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: 4ab836a6006ab47418116faa913dc734
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: f120417d79058e24fac40568c9816a9a
+  - enabled: 1
+    path: Assets/Levels/Level 6.unity
+    guid: 04d1b992ed90a534a9329ea27802cc0b
+  - enabled: 1
+    path: Assets/Levels/EkranVictory.unity
+    guid: e3c349ece32213c48aaafc327524f984
+  - enabled: 1
+    path: Assets/Levels/DeathMenu.unity
+    guid: fd2f1bc52a59399449b7c4f2569976df
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f87a6b66755e76849a612e84c7a4dd4f, type: 2}
